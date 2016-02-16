@@ -2,7 +2,7 @@
 
 #### Introduction
 
-Through history we always attempted to pass information across generations using different media: oral communication, hand-writing, printing and digital form. The challenge of persistence - preserving information through time - is ensuring its survivability, integrity and availability. This challenge applies to the modern digital world when archiving documents and data that are meant to be persistent, let them being public domain documents, encyclopedic entries, law cases, academic papers.
+Through history we always attempted to pass information across generations using different media: oral communication, hand-writing, printing and digital form. The challenge of persistence - preserving information through time - is ensuring its survivability, integrity and availability. This challenge applies to the modern digital world when archiving documents and data that are meant to be persistent (e.g. public domain documents, encyclopedic entries, law cases, academic papers)
 
 > Ensuring persistence can be often obstacled by natural factors (e.g. natural disaster), human interaction (e.g. censorship).
 
