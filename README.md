@@ -59,4 +59,6 @@
 - Interoperability
 - Partitionability
 
----
+--
+
+[On Persistence](persistence.md)
