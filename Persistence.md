@@ -1,8 +1,24 @@
 # Persistence on the web
 
+#### Introduction
+
+Through history we always attempted to pass information through generations using different media: oral communication, hand-writing, printing and digitally. The challenge of persistence, passing information through time, is ensuring its survivability, integrity and availability. This challenge applies to the modern digital world when archiving documents and data that are meant to be persistent, let them being public domain documents, encyclopedic entries, law cases, academic papers.
+
+> Obstacles of persistence. Persistence can be obstacled by natural disasters, censorship, single point of failure.
+> Digital persistence. Multiple copies
+> New opportunities. Multiple copies
+Great new things that we will be able to do:
 - Building on top of knowledge far in the future
 - New discoveries -> finding the sources
 - more on the vision
+
+> This essay aims at understanding the importance of persistence of digital information analyzing the technological challenges and modern techniques for archival. The focus of this paper is on how we can achieve this using web technologies.
+
+Defining the terms
+- Persistance
+  - Survivability
+  - Integrity
+  - Availability
 
 survivability on the web
 - personal data archival
