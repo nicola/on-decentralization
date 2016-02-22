@@ -8,7 +8,7 @@ Through history we always attempted to pass information across generations using
 
 > Digital persistence. Multiple copies
 
-> New opportunities. Multiple copies
+> New opportunities. Multiple copiesp
 Great new things that we will be able to do:
 - Building on top of knowledge far in the future
 - New discoveries -> finding the sources
@@ -16,11 +16,16 @@ Great new things that we will be able to do:
 
 > This essay aims at understanding the importance of persistence of digital information analyzing the technological challenges and modern techniques for archival. The focus of this paper is on how we can achieve this using web technologies.
 
+Persistance: the action of keeping of making something permanent through time
+Permanence: remaining unchanged indefinitely
+Archival: the act of mantaining an archive
+Preservation: 
+
 Defining the terms
 - Persistance
-  - Survivability
-  - Integrity
-  - Availability
+  - Survivability: ability to survive obstacles
+  - Integrity: ability of proving correctness throught tim
+  - Availability: ability to be used at any time
 
 survivability on the web
 - personal data archival
