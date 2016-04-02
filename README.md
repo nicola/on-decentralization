@@ -4,6 +4,27 @@
 
 > Issues and notes on decentralization
 
+## What is technological decentralization?
+- Decentralization is about redistributing control between individuals and intermediaries that stand between the intention and the realization of an action
+- What does decentralization address?
+
+Problems
+  - Control/Power
+    - Dependence: e.g. vendor's lock in
+      - data lock in
+      - platform lock in
+    - Monitoring: e.g. surveillance
+      - read more than supposed to / knowing information that the user can avoid to share
+    - Alteration/Integrity/Censorship
+      - stop showing some content
+
+Solutions / Effects
+- Interoperability
+- Portability
+- Privacy/Anonymity
+
+The security model has changed
+
 ## Motivations on moving towards decentralization
 
 - Philosophy / Ideology
@@ -21,10 +42,12 @@
     - New work place
 
   - Delegation
+  - The example of Dynamo
 
 ## The state of the art of Centralization
 
 - "Firms arise when the individual cost of starting something is higher" - The nature of the firm
+- is there a way for which the incentive of a company is to reduce the individual cost?
 
 ## The cost of Decentralization
 
